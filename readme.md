@@ -104,6 +104,14 @@ return [
 ];
 ```
 
+
+## Don't Forget
+
+In ```resources``` 
+put a fonts folder,, I use cairo font you can find all fonts that I use here.
+
+https://drive.google.com/file/d/105axtIbTkfYtyeu9R-xN2sNuO5hjR-Be/view?usp=sharing
+you can use your own font but don't forget put it in ```resources/fonts``` and add it to ```custom_font_data``` array
 ## Headers and Footers
 
 If you want to have headers and footers that appear on every page, add them to your `<body>` tag like this:
