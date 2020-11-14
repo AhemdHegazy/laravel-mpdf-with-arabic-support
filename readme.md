@@ -168,6 +168,12 @@ body {
 	font-family: 'examplefont', sans-serif;
 }
 ```
+## Full Example
+
+you can find a full example here
+
+https://github.com/AhemdHegazy/laravel-mpdf-example
+
 
 ## License
 
